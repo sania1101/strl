@@ -1,0 +1,22 @@
+{
+  "name": "stlk",
+  "version": "1.0.0",
+  "description": "is my test task",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "react",
+    "mongodb"
+  ],
+  "author": "sania_1101",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.4",
+    "nodemon": "^2.0.2"
+  }
+}
